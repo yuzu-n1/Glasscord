@@ -1,4 +1,4 @@
-@import url("https://nmwplays.github.io/Glasscord/Glasscord.css");
+@import url("https://raw.githubusercontent.com/yuzu-n1/Glasscord/refs/heads/main/Glasscord.css");
 
 /**
  * @name Glasscord
@@ -26,5 +26,5 @@
     --blur-strength: 7px;
     --brightness-level: 0.8;
 
-    --background-image: url('https://i.imgur.com/hpHXrym.png');
+    --background-image: url('https://i.imgur.com/vphkMoa.png');
 }
